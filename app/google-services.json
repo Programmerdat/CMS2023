@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "814149630675",
+    "firebase_url": "https://click-2023-default-rtdb.firebaseio.com",
+    "project_id": "click-2023",
+    "storage_bucket": "click-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814149630675:android:e4ce59c33d837b7e46f226",
+        "android_client_info": {
+          "package_name": "com.example.cms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUYv_ku4YUlu1HzQGwTr4xfmUvR9t-4IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
